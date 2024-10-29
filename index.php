@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <img src="imagens/pizza.jpg">
 </body>
 </html>
