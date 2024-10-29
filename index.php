@@ -8,7 +8,7 @@
 <body>
     
        <h1>Minha Imagem</h1>
-       <img src="imagem/pizza.jpg" >
+       <img src="imagens/pizza.jpg">
        
     
 
